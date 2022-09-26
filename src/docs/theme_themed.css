@@ -1198,6 +1198,10 @@
     text-align: center;
     top: 14px;
   }
+  function isTruthy(x) {
+    debugger;
+    return Boolean(x);
+}
   .markdown-section p.tip code {
     background-color: #efefef;
   }
