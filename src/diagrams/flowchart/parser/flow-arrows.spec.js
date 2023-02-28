@@ -9,6 +9,15 @@ setConfig({
 describe('[Arrows] when parsing', () => {
   beforeEach(function () {
     flow.parser.yy = flowDb;
+    
+    
+    
+    
+    
+    
+    
+    
+    
     flow.parser.yy.clear();
   });
 
